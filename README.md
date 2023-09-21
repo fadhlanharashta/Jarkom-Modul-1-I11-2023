@@ -6,6 +6,10 @@ I Putu Arya Prawira Wiwekananda <br />
 ## No 1
 ## No 2
 ## No 3
+Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:
+a. Berapa banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702? <br />
+b. Protokol layer transport apa yang digunakan?<br />
+
 ```
 ip.src == 239.255.255.250 || ip.dst == 239.255.255.250) && udp.port ==  3702
 ```
