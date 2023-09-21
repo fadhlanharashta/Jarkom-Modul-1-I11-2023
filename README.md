@@ -1,6 +1,6 @@
 ![image](https://github.com/fadhlanharashta/Jarkom-Modul-1-I11-2023/assets/115058221/4a4c8408-eab5-4256-bdaf-610230906aa3)# Jarkom-Modul-1-I11-2023
 Muhammad Fadhlan Ashila Harashta 5025211068 <br />
-Hanifi Abrar Setiawan <br />
+Hanifi Abrar Setiawan 5025211066 <br />
 I Putu Arya Prawira Wiwekananda 5025211065 <br />
 
 ## No 1
@@ -18,6 +18,16 @@ FILTER EXPRESSION <br />
 ANSWER <br />
 ![filterexpression1](https://cdn.discordapp.com/attachments/892965588371111966/1153334146626768916/rn_image_picker_lib_temp_e9ceed6c-3ffa-4626-a9ca-f12dc07c3352.jpg)
 ## No 2
+Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
+
+```
+ip.addr == 10.21.78.111
+```
+FILTER EXPRESSION <br />
+![filterexpression2](https://cdn.discordapp.com/attachments/945123026410831952/1154445957241503744/Screenshot_545.png)
+ANSWER <br />
+![jawaban2](https://cdn.discordapp.com/attachments/945123026410831952/1154446549204615189/image.png)
+
 ## No 3
 Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:<br />
 a. Berapa banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702? <br />
