@@ -81,5 +81,6 @@ telnet
 ```
 FILTER EXPRESSION <br />
 ![filterexpression10](https://cdn.discordapp.com/attachments/945123026410831952/1154447427521228951/image.png)
+
 ANSWER <br />
 ![jawaban10](https://cdn.discordapp.com/attachments/945123026410831952/1154447508202856519/image.png)
