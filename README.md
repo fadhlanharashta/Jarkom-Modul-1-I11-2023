@@ -4,6 +4,19 @@ Hanifi Abrar Setiawan <br />
 I Putu Arya Prawira Wiwekananda 5025211065 <br />
 
 ## No 1
+User melakukan berbagai aktivitas dengan menggunakan protokol FTP. <br />
+a. Beraapakah sequence number (raw) pada packet yang nenunjukkan aktivitas tersebut ? <br />
+b. Berapakah acknowledge number (raw) pada packet yang nenunjukkan aktivitas tersebut ? <br />
+c. Berapakah sequence number (raw) pada packet yang menunjukkan response dari aktivitas tersebut? <br />
+d. Berapakah acknowledge number (raw) pada packet yang nemnjukkan respon aktivitas tersebut? <br />
+
+```
+ftp
+```
+FILTER EXPRESSION <br />
+![filterexpression1](https://cdn.discordapp.com/attachments/892965588371111966/1153332792688640082/image.png)
+ANSWER <br />
+![filterexpression1](https://cdn.discordapp.com/attachments/892965588371111966/1153334146626768916/rn_image_picker_lib_temp_e9ceed6c-3ffa-4626-a9ca-f12dc07c3352.jpg)
 ## No 2
 ## No 3
 Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:<br />
