@@ -75,3 +75,11 @@ FILTER EXPRESSION <br />
 ANSWER <br />
 ![jawaban9](https://cdn.discordapp.com/attachments/934661338934943774/1154441280751939605/ba836980-d9cd-45ae-ac8e-ca6a200ebc66.jpg)
 ## No 10
+Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
+```
+telnet
+```
+FILTER EXPRESSION <br />
+![filterexpression10](https://cdn.discordapp.com/attachments/945123026410831952/1154447427521228951/image.png)
+ANSWER <br />
+![jawaban10](https://cdn.discordapp.com/attachments/945123026410831952/1154447508202856519/image.png)
