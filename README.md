@@ -1,4 +1,4 @@
-# Jarkom-Modul-1-I11-2023
+![image](https://github.com/fadhlanharashta/Jarkom-Modul-1-I11-2023/assets/115058221/4a4c8408-eab5-4256-bdaf-610230906aa3)# Jarkom-Modul-1-I11-2023
 Muhammad Fadhlan Ashila Harashta 5025211068 <br />
 Hanifi Abrar Setiawan <br />
 I Putu Arya Prawira Wiwekananda 5025211065 <br />
@@ -31,6 +31,10 @@ FILTER EXPRESSION <br />
 ANSWER <br />
 ![jawaban3](https://cdn.discordapp.com/attachments/903112010504482836/1154438574377279620/image.png)
 ## No 4
+Berapa nilai checksum yang didapat dari header pada paket nomor 130? <br />
+![filterexpression4](https://cdn.discordapp.com/attachments/934661338934943774/1154443374011625573/990a1d4f-4f59-4f22-bb73-ef057b474384.png)
+ANSWER <br />
+![jawaban4](https://cdn.discordapp.com/attachments/934661338934943774/1154443767693193267/d42896e9-daf9-4966-95d0-4e8ed76b0929_1.jpg)
 ## No 5
 ## No 6
 ## No 7
