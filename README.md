@@ -47,6 +47,19 @@ ANSWER <br />
 ![jawaban4](https://cdn.discordapp.com/attachments/934661338934943774/1154443767693193267/d42896e9-daf9-4966-95d0-4e8ed76b0929_1.jpg)
 Go to number 130 then see the go to diagram protocol and then checksum
 ## No 5
+Elshe menemukan suatu file packet capture yang menarik. Bantulah elshe untuk menganalisis file packet capture tersebut. <br />
+![filterexpression5](https://cdn.discordapp.com/attachments/827014097219878982/1154666835170574408/image.png)
+![filterexpression5](https://cdn.discordapp.com/attachments/827014097219878982/1154670651173503016/image.png)
+a. Berapa banyak packer yang berhasil di capture dari file pcap tersebut ? <br />
+![filterexpression5](https://cdn.discordapp.com/attachments/827014097219878982/1154667009150308352/image.png)
+b. Port berapakah pada server yang digunakan untuk service SMTP ? <br />
+![filterexpression5](https://cdn.discordapp.com/attachments/827014097219878982/1154667321332346930/image.png)
+c. Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP ?
+![filterexpression5](https://cdn.discordapp.com/attachments/827014097219878982/1154669619479588874/image.png)
+
+ANSWER <br />
+![filerexpression5](https://cdn.discordapp.com/attachments/827014097219878982/1154666711849644032/image.png)
+
 ## No 6
 ## No 7
 Berapa jumlah packet yang menuju IP 184.87.193.88?<br />
