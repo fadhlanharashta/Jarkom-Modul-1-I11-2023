@@ -1,4 +1,4 @@
-![image](https://github.com/fadhlanharashta/Jarkom-Modul-1-I11-2023/assets/115058221/4a4c8408-eab5-4256-bdaf-610230906aa3)# Jarkom-Modul-1-I11-2023
+# Jarkom-Modul-1-I11-2023
 Muhammad Fadhlan Ashila Harashta 5025211068 <br />
 Hanifi Abrar Setiawan 5025211066 <br />
 I Putu Arya Prawira Wiwekananda 5025211065 <br />
