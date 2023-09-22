@@ -45,6 +45,7 @@ Berapa nilai checksum yang didapat dari header pada paket nomor 130? <br />
 ![filterexpression4](https://cdn.discordapp.com/attachments/934661338934943774/1154443374011625573/990a1d4f-4f59-4f22-bb73-ef057b474384.png)
 ANSWER <br />
 ![jawaban4](https://cdn.discordapp.com/attachments/934661338934943774/1154443767693193267/d42896e9-daf9-4966-95d0-4e8ed76b0929_1.jpg)
+Go to number 130 then see the go to diagram protocol and then checksum
 ## No 5
 ## No 6
 ## No 7
@@ -56,6 +57,7 @@ FILTER EXPRESSION <br />
 ![filterexpression7](https://cdn.discordapp.com/attachments/934661338934943774/1154439675084284035/ae7fef6f-bca9-45fd-a3ff-c26fdf5471f6.png)
 ANSWER <br />
 ![jawaban7](https://cdn.discordapp.com/attachments/934661338934943774/1154440364321689640/807fbe30-38eb-4867-b5e0-ef2e94a33383.png)
+After using the command above then count how many data are there
 ## No 8
 Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)<br />
 ```
@@ -65,6 +67,7 @@ FILTER EXPRESSION <br />
 ![filterexpression8](https://cdn.discordapp.com/attachments/934661338934943774/1154440828735996014/6c0e5200-4b46-4597-ad5d-3ed1098c0bda.png)
 ANSWER <br />
 ![jawaban8](https://cdn.discordapp.com/attachments/934661338934943774/1154442034896183316/d42896e9-daf9-4966-95d0-4e8ed76b0929.jpg)
+The command will filter the protocol with source and destination 80
 ## No 9
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!<br />
 ```
@@ -74,6 +77,7 @@ FILTER EXPRESSION <br />
 ![filterexpression9](https://cdn.discordapp.com/attachments/934661338934943774/1154441532561170442/cfcae0f3-69e8-4209-ad69-fe016f612603.png)
 ANSWER <br />
 ![jawaban9](https://cdn.discordapp.com/attachments/934661338934943774/1154441280751939605/ba836980-d9cd-45ae-ac8e-ca6a200ebc66.jpg)
+The query will filter the packet that source is 10.51.40.1 but will exclude those with destination 10.39.55.34
 ## No 10
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 ```
